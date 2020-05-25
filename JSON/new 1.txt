@@ -1,0 +1,16 @@
+npm install babel-core babel-loader babel-preset-env babel-preset-react html-webpack-plugin --save-dev
+
+C:\Users\username\Desktop\reactApp>type nul > index.html
+C:\Users\username\Desktop\reactApp>type nul > App.js
+C:\Users\username\Desktop\reactApp>type nul > main.js
+C:\Users\username\Desktop\reactApp>type nul > webpack.config.js
+C:\Users\username\Desktop\reactApp>type nul > .babelrc
+
+
+MongoDB
+michle ---india@123
+
+-		$exception	{"Unable to cast object of type 'MongoDB.Driver.MongoCollectionImpl`1[MongoDbModel.Model.Student]' 
+to type 'MongoDB.Driver.MongoCollection`1[MongoDbModel.Model.Student]'."}	System.InvalidCastException
+Mmichle
+51707611+Mmichle@users.noreply.github.com
