@@ -1,0 +1,11 @@
+{
+"employeeId":1,
+"Name":"Satya",
+"Gender" : "M",
+"Balance" :"$101214574",
+"Age" : 23,
+"Company" : "Plasto",
+"Email" : "SatyaBhai@plasto.com",
+"Phone" : "8954632514",
+"Address" : "Delhi"
+}
